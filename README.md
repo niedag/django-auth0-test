@@ -1,4 +1,5 @@
-# Auth0 Test
+# Django Auth0 Test
+
 
 This sample demonstrates how to add authentication to a Django web app using Auth0.
 
